@@ -43,8 +43,8 @@ To set up the development environment, follow these steps:
 Clone the Repository:
 
 ```sh
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/DCVglobalnetwork/erc20-audit-project.git
+cd erc20-audit-project
 ```
 
 Install Dependencies:
